@@ -1,0 +1,13 @@
+.container {
+    width: 90%;
+    margin: 1rem auto;
+    height: 100%;
+}
+
+.button-margin {
+    margin-right: 1rem;
+}
+
+table {
+    width: 100%;
+  }
